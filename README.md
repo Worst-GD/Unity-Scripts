@@ -31,7 +31,7 @@ Welcome to your go-to toolkit! This repository packs **54 powerful C# scripts** 
 
 ## 📦 Features Included 🧩
 * **54 Total Scripts** covering various gameplay mechanics 📚
-* Fully commented, clean, and easy-to-read code structure 💻
+* Fully clean, and easy-to-read code structure 💻
 * Optimized performance with minimal overhead ⚡
 * Fully customizable via the Unity Inspector</inline> 🎛️
 
